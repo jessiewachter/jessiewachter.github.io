@@ -1,0 +1,29 @@
+img {
+	border: 4px double teal;
+}
+
+h1 { color: teal;
+}
+
+body {
+    background-image: url("../images/DSC_0030.jpg");
+    background-position: relative;
+    background-size: cover;
+}
+
+
+h2 { 
+	border-bottom: 1px solid black;
+}
+
+a {
+	color: navy; 
+}
+
+.Rusticpathways { 
+	color: orange;
+}
+
+li { 
+	list-style: square;
+}
